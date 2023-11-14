@@ -1,4 +1,4 @@
-# PrettyPrintChallenge
+# Tree Algorithm - Parent Child Folder Relationship - Traverse a Tree with Recursion
  Tree Algorithm, Recursion, and Printing Example with Folder Parent-Child Relationships
 
  A simple console application that generates a static list of Folder objects randomly ordered.
